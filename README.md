@@ -83,7 +83,7 @@ junior staff.
    lost talent pipeline.
 
 ## Dashboard
-![HR Attrition Dashboard](dashboard.png)
+![HR Attrition Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 - Data segmentation using calculated columns in DAX (Power BI)
