@@ -76,7 +76,7 @@ junior staff.
    less than replacing them. Average replacement cost exceeds 
    6 months salary per employee.
 
-3. **Invest in early career development for under-25s** — 
+3. **Invest in early career development for under-25s** - 
    Introduce structured career pathways, mentorship programmes, 
    and 6-month progression reviews for junior staff. A 39.2% 
    attrition rate in this group represents both a cost and a 
@@ -92,5 +92,5 @@ junior staff.
 - Interactive dashboard with cross-filtering slicers
 - Multi-factor analysis connecting department, income, overtime 
   and satisfaction drivers
-- Business report writing — translating data findings into 
+- Business report writing - translating data findings into 
   costed recommendations for HR leadership
